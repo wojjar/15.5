@@ -1,0 +1,30 @@
+{
+  "name": "15.5",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"http-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-latest": "^6.24.1",
+    "browser-sync": "^2.23.6",
+    "http-server": "^0.11.1"
+  },
+  "dependencies": {
+    "babel-standalone": "^6.26.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wojjar/15.5.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wojjar/15.5/issues"
+  },
+  "homepage": "https://github.com/wojjar/15.5#readme",
+  "description": ""
+}
